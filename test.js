@@ -1,5 +1,5 @@
-import { inverseBilinearInterpolation2D, isClockWise, onWhichSide } from './src/fn.js'
-import { randomPoint2D } from './src/utils/random-point-generator.js'
+// import { inverseBilinearInterpolation2D, isClockWise, onWhichSide } from './src/fn.js'
+// import { randomPoint2D } from './src/utils/random-point-generator.js'
 
 function Point(x, y, v) {
   this.x = x
